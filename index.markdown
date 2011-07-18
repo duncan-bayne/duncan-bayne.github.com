@@ -2,4 +2,4 @@
 title: Duncan Bayne
 ---
 
-I'm currently migrating my [personal website](http://www.fluidscape.com/) here.  Stay tuned ...
+My personal website is currently down; I'm migrating it to GitHub Pages.  ETA on completion is a few days.  If you have anything urgent to discuss, please [email me](mailto:dhgbayne@gmail.com).
