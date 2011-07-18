@@ -1,0 +1,35 @@
+h1, h2, h3 {
+   font-family: helvetica,sans-serif;
+}
+
+h1 {
+    margin: 0em;
+    padding: 0em;
+    font-size: 1.6em;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+body {
+    font-weight: 100;
+    font-size: 0.9e;
+}
+
+footer {
+    font-size: 0.7em;
+    text-align: right;
+    padding: 1em;
+    clear: both;
+    border-top: thin black dashed;
+    opacity: 0.75;
+}
+
+header {
+    border-bottom: thin black dashed;
+}
