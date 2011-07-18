@@ -1,5 +1,5 @@
 ---
-title: Duncan Bayne
+title: Welcome
 layout: default
 ---
 
