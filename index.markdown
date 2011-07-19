@@ -7,5 +7,3 @@ layout: default
 
 My personal website is currently down; I'm migrating it to [GitHub Pages](http://pages.github.com/).  ETA on completion is a few days.  If you have anything urgent to discuss, please [email me](mailto:dhgbayne@gmail.com).
 
-(This is the working branch.  You should never see this.)
-
